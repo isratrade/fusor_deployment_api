@@ -1,19 +1,12 @@
 # FusorDeploymentApi
 
-*Introdction here*
+A temporary rails plugin for the Fusor deployments until the Foreman deployments feature is completed
 
 ## Installation
 
-See [How_to_Install_a_Plugin](http://projects.theforeman.org/projects/foreman/wiki/How_to_Install_a_Plugin)
-for how to install Foreman plugins
-
-## Usage
-
-*Usage here*
-
-## TODO
-
-*Todo list here*
+```ruby
+gem 'foreman_deployment_api', :git => 'https://github.com/isratrade/foreman_deployment_api.git'
+```
 
 ## Contributing
 
